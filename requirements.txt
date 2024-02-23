@@ -1,3 +1,5 @@
+torch
+transformers
 sentence-transformers
 onnxruntime
 onnx

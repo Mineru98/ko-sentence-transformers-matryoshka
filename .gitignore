@@ -179,3 +179,5 @@ replay_pid*
 
 *.onnx
 .DS_store
+
+KorNLUDatasets
